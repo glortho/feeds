@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.airbnb.com/s/Portofino--Metropolitan-City-of-Genoa--Italy/homes?refinement_paths%5B%5D=%2Fhomes&amp;tab_id=home_tab&amp;checkin=2022-07-01&amp;checkout=2022-07-04&amp;adults=2&amp;children=2&amp;search_type=user_map_move&amp;flexible_trip_dates%5B%5D=august&amp;flexible_trip_dates%5B%5D=july&amp;flexible_trip_lengths%5B%5D=weekend_trip&amp;date_picker_type=calendar&amp;ne_lat=44.30416682583614&amp;ne_lng=9.212420092181077&amp;sw_lat=44.301494819272506&amp;sw_lng=9.208128557757249&amp;zoom=18&amp;search_by_map=true&amp;place_id=ChIJBUxv_Maf1BIR2wEP8LWq2e8</id>
-    <title>Portofino Listings</title>
-    <updated>2021-07-25T05:34:04.450Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://a0.muscache.com/airbnb/static/icons/android-icon-192x192-c0465f9f0380893768972a31a614b670.png</icon>
-</feed>
